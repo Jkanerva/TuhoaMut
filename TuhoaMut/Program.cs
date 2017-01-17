@@ -10,6 +10,7 @@ namespace TuhoaMut
     {
         static void Main(string[] args)
         {
+            //terve
         }
     }
 }
